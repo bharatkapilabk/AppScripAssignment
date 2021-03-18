@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/project/assignment_firebase/BuildConfig.java
+ com.project.assignment_firebase.BuildConfig
+com/project/assignment_firebase/MainActivity.java
+ com.project.assignment_firebase.MainActivity
